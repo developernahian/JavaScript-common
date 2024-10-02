@@ -1,0 +1,1 @@
+// details in video b10. but no need to explore in. use let or const
